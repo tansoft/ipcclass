@@ -16,7 +16,7 @@ IPCClass 是一个利用C类IP特性实现的性能非常高的IP查询工具。
 data 数据文件
  + 
 sdk 各种语言的sdk
-server 提供查询服务
+server 提供独立的查询服务
 tools IP处理工具集
 converter 其他IP库转换
 ```
